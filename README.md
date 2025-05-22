@@ -82,3 +82,6 @@ For inquiries, proposals, or symbolic partnerships:
 © 2025 RANNTA.  
 Built on meaning. Forged in fire. Powered by TON.
 
+
+
+
