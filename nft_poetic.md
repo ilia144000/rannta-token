@@ -5,5 +5,5 @@ Each NFT aligns with: **Fire × Sound × Symbol**
 
 Explore our symbolic NFTs — not just art, but encrypted frequencies of meaning:
 
-- ✴️ [Main Collection: RANNTA Symbolic Legacy](https://getgems.io/rannta)  
-- 🌀 [Cycle Series: RANNTA Awakening](https://getgems.io/rannta-cycle)
+- ✴ [Main Collection: RANNTA Symbolic Legacy](https://getgems.io/rannta)  
+-  [Cycle Series: RANNTA Awakening](https://getgems.io/rannta-cycle)
