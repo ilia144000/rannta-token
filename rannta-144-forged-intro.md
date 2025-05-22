@@ -1,14 +1,14 @@
 # Let’s Get Serious — RANNTA Isn’t Just a Token Anymore
 
 
-## 🔥 RANNTA | CODE: `144-FORGED`
+##  RANNTA | CODE: `144-FORGED`
 
 ### Symbol. Protocol. Signal.  
 **RANNTA: Forged in purpose — designed for a networked, meaningful future.**
 
 ---
 
-### 🔰 Introduction
+###  Introduction
 
 In an era where blockchain projects are evolving beyond technical experimentation, long-term relevance belongs to those that offer **not just code, but identity, culture, and intent**.
 
@@ -19,21 +19,21 @@ The code `144-FORGED` marks a major milestone — a protocol-level seal for asse
 
 ---
 
-## 🔢 Decoding `144-FORGED`
+##  Decoding `144-FORGED`
 
-### 🔺 Why 144?
+###  Why 144?
 - In mathematics: A square of 12 — a symbol of balance, cycles, and structure.  
 - In classical systems: Often used to represent completeness or structural harmony.  
 - In digital frameworks: A compact, memorable code used to group elevated or qualified tokens.
 
-### 🔥 What does "FORGED" imply?
+###  What does "FORGED" imply?
 Not mystical — but precise.  
 "Forged" denotes an asset that has passed through internal vetting, validation, and refinement processes.  
 It represents integrity, readiness, and eligibility for advanced ecosystem interactions.
 
 ---
 
-## 🧠 Why Define a Code Like This?
+##  Why Define a Code Like This?
 
 With countless ephemeral tokens flooding the space, `144-FORGED` provides:
 
@@ -43,7 +43,7 @@ With countless ephemeral tokens flooding the space, `144-FORGED` provides:
 
 ---
 
-## 🔗 Role in the RANNTA Ecosystem
+##  Role in the RANNTA Ecosystem
 
 - Tokens and NFTs tagged with `144-FORGED` are eligible for Phase 2 modules — such as community governance, on-chain filters, and event-based activations.
 - Smart contracts may include a metadata flag like `isForged: true`.
@@ -51,7 +51,7 @@ With countless ephemeral tokens flooding the space, `144-FORGED` provides:
 
 ---
 
-## 🌐 The TON Future and the Need for Identity
+##  The TON Future and the Need for Identity
 
 TON is not just a blockchain — it's a **global environment for decentralized utility and interaction**.  
 But as Web3 evolves, projects will require more than technical capability. They must offer:
@@ -64,7 +64,7 @@ But as Web3 evolves, projects will require more than technical capability. They 
 
 ---
 
-## 🛠️ Practical Use Cases of `144-FORGED`
+##  Practical Use Cases of `144-FORGED`
 
 | Feature | Description |
 |---------|-------------|
@@ -77,7 +77,7 @@ But as Web3 evolves, projects will require more than technical capability. They 
 
 ---
 
-## ✨ Final Thought: The Shift Toward Meaningful Systems
+##  Final Thought: The Shift Toward Meaningful Systems
 
 Projects that rely solely on speed or hype are easily forgotten.  
 But those that blend **purpose, clarity, and execution** — they form the new foundation.
