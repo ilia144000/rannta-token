@@ -4,7 +4,7 @@ This file provides a clear and structured reference of the technical details rel
 
 ---
 
-## 🔹 Basic Properties
+##  Basic Properties
 - **Token Name:** RANNTA Coin  
 - **Symbol:** RANNTA  
 - **Decimals:** 9  
@@ -15,7 +15,7 @@ This file provides a clear and structured reference of the technical details rel
 
 ---
 
-## 🔒 Contract Status
+##  Contract Status
 - **Ownership:** Revoked (No admin privileges)  
 - **Mintability:** Disabled (Fixed supply)  
 - **Verification:** ✅ Verified on TONScan and Tonviewer  
@@ -23,7 +23,7 @@ This file provides a clear and structured reference of the technical details rel
 
 ---
 
-## 🔗 Useful Links
+##  Useful Links
 - [TONScan View](https://tonscan.org/address/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)
 - [Tonviewer View](https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)
 - [NFTs on Getgems](https://getgems.io/rannta)
@@ -31,7 +31,7 @@ This file provides a clear and structured reference of the technical details rel
 
 ---
 
-## 🧾 License & Transparency
+##  License & Transparency
 - Token data and metadata are publicly hosted in this repository.  
 - Contract and wallet addresses are published for verification.
 
