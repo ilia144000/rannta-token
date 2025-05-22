@@ -1,4 +1,4 @@
-# 🪙 RANNTA Token Info
+#  RANNTA Token Info
 
 This file provides a clear and structured reference of the technical details related to the RANNTA token on the TON blockchain.
 
@@ -16,6 +16,10 @@ This file provides a clear and structured reference of the technical details rel
 ---
 
 ##  Contract Status
+
+RANNTA is a `144-FORGED` token.  
+Immutable. Finalized. Sealed by design.
+
 - **Ownership:** Revoked (No admin privileges)  
 - **Mintability:** Disabled (Fixed supply)  
 - **Verification:** ✅ Verified on TONScan and Tonviewer  
@@ -38,3 +42,4 @@ This file provides a clear and structured reference of the technical details rel
 ---
 
 © 2025 RANNTA — Symbolic Infrastructure on TON.
+
