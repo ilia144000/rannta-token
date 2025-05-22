@@ -1,4 +1,4 @@
-# 🧑‍💼 RANNTA Core Team
+#  RANNTA Core Team
 
 Meet the key people behind the RANNTA project — guiding the symbolic, technical, and strategic pillars of our mission.
 
