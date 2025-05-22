@@ -68,13 +68,13 @@ Explore our symbolic NFTs — not just art, but encrypted frequencies of meaning
 
 ---
 
-## 🌀 Why TON?
+##  Why TON?
 We proudly chose **The Open Network (TON)** as our foundational chain — a tribute to the spirit of decentralization and the strength of community-driven design.
 
 TON’s:
-- Lightning-fast transactions ⚡  
-- Modular architecture 🧩  
-- Strong developer ecosystem 💻  
+- Lightning-fast transactions   
+- Modular architecture   
+- Strong developer ecosystem   
 make it the perfect host for a symbolic, scalable token with real-world narrative power.
 
 ---
