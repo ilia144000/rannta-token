@@ -1,6 +1,6 @@
 # RANNTA COIN
 
-## 🪙 Token Overview
+##  Token Overview
 - **Symbol:** RANNTA  
 - **Blockchain:** The Open Network (TON)  
 - **Jetton Address:** `EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔥 Project Description
+##  Project Description
 **RANNTA COIN** is a symbolic, community-powered token built on The Open Network (TON).
 
 It was born as a tribute to the devastating Los Angeles fire — a symbolic moment representing the collapse of meaning, structure, and collective spirit in modern systems.  
@@ -22,12 +22,12 @@ We echo the energy behind the idea of _"Make America Great Again"_ — not in a 
 
 ---
 
-## 🌐 Key Links
-- 🔗 [Website](https://rannta.com)  
-- 💬 [Telegram](https://t.me/ranntacoin2025)  
-- 📁 [GitHub](https://github.com/ilia144000/rannta-token)  
-- 📺 [YouTube](https://youtube.com/@ranntacoin)  
-- 📷 [Instagram](https://instagram.com/ranntacoin)
+##  Key Links
+-  [Website](https://rannta.com)  
+-  [Telegram](https://t.me/ranntacoin2025)  
+-  [GitHub](https://github.com/ilia144000/rannta-token)  
+-  [YouTube](https://youtube.com/@ranntacoin)  
+-  [Instagram](https://instagram.com/ranntacoin)
 
 ---
 
@@ -38,33 +38,33 @@ Each NFT aligns with: **Fire × Sound × Symbol**
 
 Explore our symbolic NFTs — not just art, but encrypted frequencies of meaning:
 
-- ✴️ [Main Collection: RANNTA Symbolic Legacy](https://getgems.io/rannta)  
-- 🌀 [Cycle Series: RANNTA Awakening](https://getgems.io/rannta-cycle)
+- ✴ [Main Collection: RANNTA Symbolic Legacy](https://getgems.io/rannta)  
+-  [Cycle Series: RANNTA Awakening](https://getgems.io/rannta-cycle)
 
 ---
 
-## 📘 Whitepaper & Roadmap
-- 📘 [Whitepaper (HTML)](https://ilia144000.github.io/ranntaweb-v2/whitepaper.html)  
-- 📄 [Whitepaper (PDF)](./whitepaper.pdf)  
-- 🗺 [Roadmap (HTML)](https://ilia144000.github.io/ranntaweb-v2/roadmap.html)  
-- 🗂 [Roadmap (MD)](./roadmap.md)  
+##  Whitepaper & Roadmap
+-  [Whitepaper (HTML)](https://ilia144000.github.io/ranntaweb-v2/whitepaper.html)  
+-  [Whitepaper (PDF)](./whitepaper.pdf)  
+-  [Roadmap (HTML)](https://ilia144000.github.io/ranntaweb-v2/roadmap.html)  
+-  [Roadmap (MD)](./roadmap.md)  
 
 ---
 
-## 📂 Internal Documents
-- 🪙 [Token Info](./token-info.md)  
-- 👥 [Team](./team.md)  
-- 🧿 [Symbolists](./symbolists.md)  
-- 📩 [Contact](./contact.md)
+##  Internal Documents
+-  [Token Info](./token-info.md)  
+-  [Team](./team.md)  
+-  [Symbolists](./symbolists.md)  
+-  [Contact](./contact.md)
 
 ---
 
-## ✳️ Key Features
-- 🔒 Immutable supply (admin keys burned)
-- 🧿 Transparent token data (open-source metadata)
-- 💠 Symbolic NFT collections aligned with project philosophy
-- ⚡ Built natively on TON for speed, security, and scalability
-- 📖 Inspired by fire mythology, abjad numerology, and archetypal systems
+## ✳ Key Features
+-  Immutable supply (admin keys burned)
+-  Transparent token data (open-source metadata)
+-  Symbolic NFT collections aligned with project philosophy
+-  Built natively on TON for speed, security, and scalability
+-  Inspired by fire mythology, abjad numerology, and archetypal systems
 
 ---
 
@@ -79,20 +79,20 @@ make it the perfect host for a symbolic, scalable token with real-world narrativ
 
 ---
 
-## 🧠 Use Cases
-- 🔄 Swaps and LP staking in TON DeFi
-- 🗳 On-chain governance (DAO participation)
-- 🖼 Purchasing symbolic NFTs
-- 🎁 Reward-based staking (planned)
-- 🌐 Integration with TON dApps
+##  Use Cases
+-  Swaps and LP staking in TON DeFi
+-  On-chain governance (DAO participation)
+-  Purchasing symbolic NFTs
+-  Reward-based staking (planned)
+-  Integration with TON dApps
 
 ---
 
-## 📜 Legal & Metadata
-- ✅ Admin privileges revoked forever  
-- 🧾 Contract is immutable  
-- 🔍 View verified address on [TONViewer](https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR) or [TONScan](https://tonscan.org/address/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)  
-- 🧠 Symbolic metadata and logo hosted openly in GitHub
+##  Legal & Metadata
+-  Admin privileges revoked forever  
+-  Contract is immutable  
+-  View verified address on [TONViewer](https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR) or [TONScan](https://tonscan.org/address/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)  
+-  Symbolic metadata and logo hosted openly in GitHub
 
 
 
