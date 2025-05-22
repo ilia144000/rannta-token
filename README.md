@@ -26,11 +26,36 @@ We echo the energy behind the idea of _"Make America Great Again"_ — not in a 
 - 🔗 [Website](https://rannta.com)  
 - 💬 [Telegram](https://t.me/ranntacoin2025)  
 - 📁 [GitHub](https://github.com/ilia144000/rannta-token)  
-- 🖼 [NFTs on Getgems](https://getgems.io/rannta)  
 - 📺 [YouTube](https://youtube.com/@ranntacoin)  
-- 📷 [Instagram](https://instagram.com/ranntacoin)  
+- 📷 [Instagram](https://instagram.com/ranntacoin)
+
+---
+
+## 🖼 RANNTA NFT Collections  
+**RANNTA – Born of Fire, Forged in Myth**  
+In memory of the Los Angeles fire — a signal of return, not just to ashes, but to greatness.  
+Each NFT aligns with: **Fire × Sound × Symbol**
+
+Explore our symbolic NFTs — not just art, but encrypted frequencies of meaning:
+
+- ✴️ [Main Collection: RANNTA Symbolic Legacy](https://getgems.io/rannta)  
+- 🌀 [Cycle Series: RANNTA Awakening](https://getgems.io/rannta-cycle)
+
+---
+
+## 📘 Whitepaper & Roadmap
 - 📘 [Whitepaper (HTML)](https://ilia144000.github.io/ranntaweb-v2/whitepaper.html)  
-- 🗺 [Roadmap (HTML)](https://ilia144000.github.io/ranntaweb-v2/roadmap.html)
+- 📄 [Whitepaper (PDF)](./whitepaper.pdf)  
+- 🗺 [Roadmap (HTML)](https://ilia144000.github.io/ranntaweb-v2/roadmap.html)  
+- 🗂 [Roadmap (MD)](./roadmap.md)  
+
+---
+
+## 📂 Internal Documents
+- 🪙 [Token Info](./token-info.md)  
+- 👥 [Team](./team.md)  
+- 🧿 [Symbolists](./symbolists.md)  
+- 📩 [Contact](./contact.md)
 
 ---
 
@@ -69,18 +94,7 @@ make it the perfect host for a symbolic, scalable token with real-world narrativ
 - 🔍 View verified address on [TONViewer](https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR) or [TONScan](https://tonscan.org/address/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)  
 - 🧠 Symbolic metadata and logo hosted openly in GitHub
 
----
 
-## 🔗 Contact
-For inquiries, proposals, or symbolic partnerships:
-
-📧 `symbolists@rannta.com`  
-📧 `contact@rannta.com`
-
----
-
-© 2025 RANNTA.  
-Built on meaning. Forged in fire. Powered by TON.
 
 
 
