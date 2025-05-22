@@ -1,4 +1,4 @@
-# ✨ The Symbolists of RANNTA  
+#  The Symbolists of RANNTA  
 **Specialists in Mythology, Gematria & Brand Symbolism**
 
 We are a research-driven team specializing in ancient history, mythological systems, symbolic codes, and the esoteric science of gematria.  
@@ -6,7 +6,7 @@ Our mission is to help emerging tokens, DAOs, and symbolic brands express their 
 
 ---
 
-## 🔮 What We Offer
+##  What We Offer
 
 - ✦ Brand name guidance rooted in frequency and archetypes  
 - ✦ Conceptual & mystical NFT design  
@@ -20,7 +20,7 @@ Whether you're launching a startup, a token, or a sacred brand, we guide you thr
 
 ---
 
-## 🎯 Directed by: ILIYA  
+##  Directed by: ILIYA  
 Founder of the RANNTA initiative and lead architect of symbolic resonance.
 
 ---
