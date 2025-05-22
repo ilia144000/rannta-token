@@ -9,7 +9,7 @@ If you’d like to connect with the RANNTA team or follow our latest updates, re
 - 💬 [Telegram](https://t.me/ranntacoin2025)  
 - 📺 [YouTube](https://youtube.com/@ranntacoin)
 
----
+--
 
 ## ✉️ Emails
 
