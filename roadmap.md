@@ -3,7 +3,7 @@ A clear path from token birth to full ecosystem maturity.
 
 ---
 
-### 🕊️ H2 2025 — Genesis & Symbolic Flame  
+###  H2 2025 — Genesis & Symbolic Flame  
 - Public launch of the RANNTA token  
 - Whitepaper and website publication  
 - Listing on TON-based DEXs (STON.fi, DeDust, etc.)  
@@ -12,7 +12,7 @@ A clear path from token birth to full ecosystem maturity.
 
 ---
 
-### 🛠️ 2026 — Infrastructure & Expansion  
+###  2026 — Infrastructure & Expansion  
 - Launch of **RANNTA Wallet** (web + mobile with staking support)  
 - TON smart contract optimizations and audit  
 - Begin build of **RANNTA Blockchain** (independent symbolic layer)  
@@ -22,7 +22,7 @@ A clear path from token birth to full ecosystem maturity.
 
 ---
 
-### 🏛 2027 — Governance & Sacred Exchange  
+###  2027 — Governance & Sacred Exchange  
 - Launch of **RANNTA Exchange** focused on mythic & spiritual tokens  
 - Full DAO activation with on-chain voting (Jetton-based governance)  
 - Symbolist council formation (curated on-chain contributors)  
@@ -31,7 +31,7 @@ A clear path from token birth to full ecosystem maturity.
 
 ---
 
-### 🔮 Beyond 2027 — Myth, Matter, and Meaning  
+###  Beyond 2027 — Myth, Matter, and Meaning  
 - Integration with decentralized AI for symbolic intent validation  
 - Establishment of **RANNTA Cultural Fund** for conscious creators  
 - Exploration of **quantum-anchored token issuance**  
