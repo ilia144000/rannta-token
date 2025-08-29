@@ -1,120 +1,101 @@
+# 🌟 RANNTA — Symbolic Crypto-Art & Token Ecosystem
 
-# RANNTA COIN
+RANNTA is a **symbolic, immutable, community-powered token** on the **TON blockchain**.  
+It unites **financial tokenomics** with **mythic–conceptual arts**, rooted in  
+**Mythosymbolic Fractalism (MSF)** — a synthesis of geometry, myth, sacred codes,  
+and encrypted digital frequencies.
 
-## Token Overview
-
-- **Symbol**: RANNTA  
-- **Blockchain**: The Open Network (TON)  
-- **Jetton Address**: `EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`  
-- **Total Supply**: 130,000,000,000  
-- **Decimals**: 9  
-- **Admin Ownership**: Revoked   
-- **Identity Layer**: `144-FORGED `  
+Born in the ashes of the Los Angeles fire — a symbolic collapse of structure and meaning —  
+RANNTA rises as a signal of **rebirth, clarity, and symbolic power**.  
+Not political, but universal: a call to restore greatness through **value and soul**.  
 
 ---
 
-##  Project Description
-
-RANNTA COIN is a symbolic, community-powered token built on The Open Network (TON).
-
-It was born as a tribute to the devastating Los Angeles fire — a symbolic moment representing the collapse of meaning, structure, and collective spirit in modern systems.  
-RANNTA rises as a spiritual and financial signal — a call to rebuild what was lost, in value and in soul.
-
-We echo the energy behind the idea of "Make America Great Again" — not in a political sense, but as a universal longing to restore greatness through rebirth, clarity, and symbolic power.
-
-RANNTA stands at the intersection of **financial utility** and **mythic identity**, with a vision to help rebuild conscious value across Web3.
-
----
-
-##  `144-FORGED`: Immutable Identity Layer
-
-This token is sealed and immutable — no future changes to metadata or contract structure are possible.  
-The `144-FORGED` code represents a finalized identity state, publicly verified and cryptographically bound.
-
->  A symbolic signal for tokens crafted with narrative, precision, and permanence.
+## 🔹 Token Overview
+- **Symbol:** RANNTA  
+- **Blockchain:** TON (The Open Network)  
+- **Smart Contract Address:**  
+  `EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`  
+- **Standard:** Jetton (TON Fungible Token Standard)  
+- **Decimals:** 9  
+- **Total Supply:** 1,300,000,000 (1.3 Billion) RANNTA  
+- **Admin Ownership:** Revoked ✅ (no hidden mint/burn)  
+- **Identity Layer:** `144-FORGED` — immutable narrative code  
 
 ---
 
-##  Key Links
+## 🔹 Immutable Identity — `144-FORGED`
+The token is sealed and immutable — no admin keys, no future changes.  
+The identity code `144-FORGED` represents permanence, narrative alignment,  
+and cryptographic truth.  
 
--  Website  
--  Telegram  
--  GitHub  
--  YouTube  
--  Instagram  
--  RANNTA NFT Collections
+> A signal for tokens crafted with story, precision, and symbolic depth.
 
 ---
 
-##  RANNTA – Born of Fire, Forged in Myth
-
-> In memory of the Los Angeles fire — a signal of return, not just to ashes, but to greatness.  
-Each NFT aligns with: `Fire × Sound × Symbol`
-
-Explore our symbolic NFTs — not just art, but **encrypted frequencies of meaning**:
-
-- Main Collection: *RANNTA Symbolic Legacy*  
-- Cycle Series: *RANNTA Awakening*
+## 🔹 Distribution
+- 40% Ecosystem Growth  
+- 25% Team & Core Contributors  
+- 20% Community Incentives (airdrops, referrals, staking rewards)  
+- 15% Strategic Reserve  
 
 ---
 
-##  Whitepaper & Roadmap
-
-- Whitepaper (HTML)  
-- Whitepaper (PDF)  
-- Roadmap (HTML)  
-- Roadmap (Markdown)
-
----
-
-##  Internal Documents
-
-- Token Info  
-- Team  
-- Symbolists  
-- Contact
+## 🔹 Core Principles
+- 🔒 **Immutability:** No admin control, no future edits  
+- ⚖️ **Transparency:** Fixed supply, open metadata, verifiable on-chain  
+- 💎 **Community Rewards:** Staking, referrals, symbolic NFTs  
+- 🗳 **Governance (Future Layer):** Path to DAO voting  
+- 🎨 **Artistic Integration:** NFTs encrypted with MSF symbolism  
+- 🔥 **Mythic Birth:** Inspired by fire mythology, abjad numerology, and symbolic rebirth  
 
 ---
 
-##  Key Features
+## 🔹 Artistic Vision
+RANNTA NFTs merge **encrypted fractal art** with mythological archetypes.  
+Collections include:  
+- Griffin Initiation Series  
+- Zodiac Cycle (13 symbolic guardians)  
+- Cosmic Awakening of Aquarius  
+- MSF Pixel Series  
 
-- Immutable supply (**admin keys burned**)  
-- Transparent metadata (open-source, verifiable)  
-- Symbolic NFT collections aligned with project vision  
-- Built natively on TON for speed, security, and scalability  
-- Inspired by **fire mythology**, **abjad numerology**, and **symbolic systems**  
-- Identity Layer: `144-FORGED `
-
----
-
-##  Why TON?
-
-We proudly chose **The Open Network (TON)** as our foundational chain — a tribute to decentralization and community-led ecosystems.
-
-TON’s:
-
-- Lightning-fast transactions  
-- Modular, secure architecture  
-- Active developer ecosystem  
-
-make it the perfect host for a **symbolic, scalable token** with real-world narrative utility.
+Each NFT is not just art — it is a **frequency of meaning**,  
+coded with geometry, myth, and fractal encryption.  
 
 ---
 
-##  Use Cases
-
-- Swaps and LP staking in TON DeFi  
-- On-chain governance (DAO voting)  
-- Purchasing symbolic NFTs  
-- Reward-based staking (planned)  
-- Integration with TON-based dApps
+## 🔹 Philanthropy
+25% of all net proceeds support:  
+- 🌱 Environmental sustainability (reforestation, climate projects)  
+- 👶 Children’s welfare and education  
+- 🕊 Preservation of cultural and artistic heritage  
 
 ---
 
-##  Legal & Metadata
+## 🔹 Why TON?
+We proudly chose **The Open Network (TON)** as our foundation.  
+Its **speed, scalability, and community-driven design** make it  
+the perfect host for a symbolic and visionary token system.
 
-- Admin privileges revoked ✅  
-- Contract is immutable   
-- Identity code: `144-FORGED`  
-- Symbolic metadata and logo hosted on GitHub  
-- View verified address on TONViewer or TONScan
+---
+
+## 🔹 Resources
+- 🌐 Website: [rannta.com](https://rannta.com)  
+- 💬 Telegram: [t.me/rannta_coin](https://t.me/rannta_coin)  
+- 💻 GitHub: [ilia144000/rannta-token](https://github.com/ilia144000/rannta-token)  
+- 🎨 RANNTA NFT Collections: *RANNTA Symbolic Legacy*, *RANNTA Awakening*  
+- 🔎 Explorer: [View Contract on TON Scan](https://tonscan.org/address/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)  
+
+---
+
+## 🔹 Whitepaper & Roadmap
+- Whitepaper (HTML / PDF)  
+- Roadmap (Markdown)  
+- Token Info, Team, Symbolists, Contact  
+
+---
+
+## 🔹 License & Citation
+- **Code & Smart Contracts:** MIT License  
+- **Artistic & Conceptual Works:** CC-BY 4.0  
+- For academic or research purposes, cite via Zenodo DOI (see `CITATION.cff`).
