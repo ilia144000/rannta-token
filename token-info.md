@@ -1,45 +1,52 @@
-#  RANNTA Token Info
+# RANNTA Token — Official Information
 
-This file provides a clear and structured reference of the technical details related to the RANNTA token on the TON blockchain.
+## Blockchain
+- **Network:** TON (The Open Network)
 
----
-
-##  Basic Properties
-- **Token Name:** RANNTA Coin  
-- **Symbol:** RANNTA  
-- **Decimals:** 9  
-- **Total Supply:** 130,000,000,000  
-- **Blockchain:** The Open Network (TON)  
-- **Jetton Address:**  
+## Contract
+- **Smart Contract Address:**  
   `EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`
 
+- **Token Symbol:** RANNTA  
+- **Decimals:** 9  
+- **Standard:** Jetton (TON Fungible Token Standard)  
+- **Admin Functions:** None (immutable, no mint/burn privileges)  
+- **Transparency:** Fixed total supply, verifiable on-chain
+
+## Supply
+- **Total Supply:** 1,300,000,000 (1.3 Billion) RANNTA  
+- **Initial Distribution:**  
+  - 40% Ecosystem Growth  
+  - 25% Team & Core Contributors  
+  - 20% Community Incentives (Airdrops, Referrals, Staking Rewards)  
+  - 15% Strategic Reserve  
+
+## Core Principles
+- 🔒 **Immutability:** No admin rights, no hidden functions  
+- ⚖️ **Fairness:** Fixed supply, open on-chain verification  
+- 💎 **Staking & Rewards:** Community-driven incentives  
+- 🗳 **Governance (Future Layer):** Path to decentralized decision-making  
+- 🌐 **Referral Mining (Bot Integration):** Expanding community reach  
+
+## Vision
+RANNTA is not just a token — it is a **symbolic crypto-art ecosystem**,  
+built on the philosophy of **Mythosymbolic Fractalism (MSF)**:  
+a fusion of mathematics, myth, geometry, and encrypted digital art.  
+
+RANNTA bridges **finance, art, and philanthropy**, positioning itself as  
+both a cryptocurrency and a cultural movement.  
+
+## Philanthropy
+25% of all net proceeds are dedicated to:  
+- 🌱 Environmental sustainability & reforestation  
+- 👶 Welfare and education for children in need  
+- 🕊 Preservation of cultural and artistic heritage  
+
+## Resources
+- 🌐 Website: [rannta.com](https://rannta.com)  
+- 💻 GitHub: [ilia144000/rannta-token](https://github.com/ilia144000/rannta-token)  
+- 🔎 Explorer (TON Scan): [View Contract](https://tonscan.org/address/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)
+
 ---
-
-##  Contract Status
-
-RANNTA is a `144-FORGED` token.  
-Immutable. Finalized. Sealed by design.
-
-- **Ownership:** Revoked (No admin privileges)  
-- **Mintability:** Disabled (Fixed supply)  
-- **Verification:** ✅ Verified on TONScan and Tonviewer  
-- **Deployment:** Immutable smart contract
-
----
-
-##  Useful Links
-- [TONScan View](https://tonscan.org/address/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)
-- [Tonviewer View](https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR)
-- [NFTs on Getgems](https://getgems.io/rannta)
-- [Project Website](https://rannta.com)
-
----
-
-##  License & Transparency
-- Token data and metadata are publicly hosted in this repository.  
-- Contract and wallet addresses are published for verification.
-
----
-
-© 2025 RANNTA — Symbolic Infrastructure on TON.
-
+### Citation
+For academic or research purposes, please cite the official Zenodo DOI of this record.
