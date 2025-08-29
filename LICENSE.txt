@@ -1,0 +1,25 @@
+RANNTA Project License
+======================
+
+Code and Smart Contracts:
+-------------------------
+MIT License
+
+Copyright (c) 2025 Ilia144000
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software.
+
+Artistic and Conceptual Works:
+------------------------------
+Creative Commons Attribution 4.0 International (CC-BY 4.0)
+
+You are free to:
+- Share, copy and redistribute the material in any medium or format
+- Adapt, remix, transform, and build upon the material
+For any purpose, even commercially.
+
+Attribution is required. Please credit "RANNTA — rannta.com"
