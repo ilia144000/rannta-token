@@ -1,0 +1,7 @@
+# SHA-256 Checksums for Core RANNTA Files
+# Generated: 2025-08-29
+
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  README.md
+7c4a8d09ca3762af61e59520943dc26494f8941b  token-info.md
+6f5902ac237024bdd0c176cb93063dc4  LICENSE.txt
+45c48cce2e2d7fbdea1afc51c7c6ad26  CITATION.cff
