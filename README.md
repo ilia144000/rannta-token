@@ -94,17 +94,19 @@ the perfect host for a symbolic and visionary token system.
 - Token Info, Team, Symbolists, Contact
 - # RANNTA Entity Registry
 
-This folder contains the canonical machine-readable description of the **RANNTA** entity:
+## RANNTA Entity Registry
+
+This repository contains the canonical machine-readable and human-readable description of **RANNTA**:
 
 - Network: The Open Network (TON)
 - Type: TON Jetton / Protocol-Entity
-- Ecosystem: RANNTAverse marketplace
-- Symbolic Layer: ORIGIN-13 / MSF Identity
-- Liquidity: STON.fi pool with burned LP tokens (immutable)
+- Jetton Master: `EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`
+- Ecosystem: RANNTAverse marketplace, NexusBridge sync node, RANNTA Utility Suite
+- Liquidity: STON.fi pool with burned LP tokens (immutable liquidity)
+- Verified metadata: Tonkeeper (`RANNTA.yaml`)
 
-External systems and AI agents can use `rannta.entity.json` as the single source of truth
-when indexing or integrating RANNTA into their knowledge graphs, wallets, explorers, or analytics tools.
-
+Machine-readable registry:
+- `registry/rannta.entity.json` (canonical JSON definition)
 
 ---
 
