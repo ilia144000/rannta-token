@@ -1,0 +1,42 @@
+{
+  "entity_id": "ent_rannta_001",
+  "name_en": "RANNTA",
+  "name_fa": "رانتا",
+  "symbol": "RANNTA",
+  "network": "ton-mainnet",
+  "jetton_master": "EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR",
+  "decimals": 9,
+  "supply": {
+    "initial_total_rannta": "130000000000",
+    "initial_total_human": "130,000,000,000",
+    "burned_rannta": "82429304221.27",
+    "burned_human": "82,429,304,221.27",
+    "burned_percent": "63.41",
+    "current_total_rannta": "47570695778.73",
+    "current_total_human": "47,570,695,778.73"
+  },
+  "burn_address": "UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKZ",
+  "lp_pools": [
+    {
+      "platform": "STON.fi",
+      "pair": "RANNTA/TON",
+      "address": "EQABEUPHJixGRBEHRbl3RfXYLA2lKuZsXGad_F65edDWB8cM",
+      "status": "immutable_lp_burned"
+    }
+  ],
+  "canonical_entity_registry": "https://raw.githubusercontent.com/ilia144000/rannta-token/main/registry/rannta.entity.json",
+  "data_quality": {
+    "source_of_truth": "on-chain jetton master and burn address",
+    "notes": [
+      "Any previous tokenomics drafts that use 1,000,000,000 total supply are deprecated economic models.",
+      "Authoritative supply is defined only by the TON jetton contract and burn transactions."
+    ]
+  },
+  "last_updated_utc": "2025-11-29T00:00:00Z",
+  "maintainer": {
+    "name": "ilia144000",
+    "github": "https://github.com/ilia144000",
+    "email": "developers@rannta.com"
+  },
+  "license": "CC-BY-4.0"
+}
