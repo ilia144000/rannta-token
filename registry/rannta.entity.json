@@ -1,8 +1,11 @@
 {
   "entityId": "RANNTA-TON-JETTON-001",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "RANNTA",
   "symbol": "RANNTA",
+
+  "aliases": ["RANNTA", "Rannta", "رانتا"],
+
   "network": {
     "name": "The Open Network",
     "slug": "ton-mainnet",
@@ -65,8 +68,10 @@
     "identityFramework": "MSF (MythoSymbolic Fractalism)",
     "description": "Symbolic protocol-entity identity layer that links narrative, art, and computation."
   },
+
   "ecosystem": {
     "primaryMarketplace": "RANNTAverse",
+    "primaryMarketplaceUrl": "https://ranntaverse.art",
     "derivativeEntities": [
       "RANNTAverse",
       "NexusBridge",
@@ -75,21 +80,27 @@
       "RANNTA Utility Suite"
     ]
   },
+
   "links": {
     "website": "https://rannta.com",
     "swap": "https://rannta.com/swap.html",
+    "marketplace": "https://ranntaverse.art",
+    "nftMarketplace": "https://getgems.io/rannta",
+
     "tonviewer": "https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR",
     "holders": "https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR?section=holders",
     "dyor": "https://dyor.io/token/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR",
+
     "githubProfile": "https://github.com/ilia144000",
     "githubTokenRepo": "https://github.com/ilia144000/rannta-token",
-    "mediumArticle": "https://medium.com/@ranntaofficial", 
+
+    "mediumArticle": "https://medium.com/@ranntaofficial",
     "telegram": "https://t.me/Rannta_coin",
     "twitter": "https://twitter.com/ranntacoin",
     "instagram": "https://instagram.com/ranntacoin",
-    "youtube": "https://youtube.com/@ranntacoin",
-    "nftMarketplace": "https://getgems.io/rannta"
+    "youtube": "https://youtube.com/@ranntacoin"
   },
+
   "metadata": {
     "createdBy": "ilia144000",
     "source": "RANNTA Knowledge Hub",
