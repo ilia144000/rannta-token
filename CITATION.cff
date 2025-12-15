@@ -1,43 +1,24 @@
 cff-version: 1.2.0
-
 title: "RANNTA — Symbolic Crypto-Art & Token Ecosystem"
-
-message: >
-  If you use this token, protocol, specification, or related symbolic assets,
-  please cite this work as described below.
-
+message: "If you use this token specification or related assets, please cite it as below."
 authors:
   - family-names: Ghafari
     given-names: Ilia
     orcid: https://orcid.org/0009-0001-9044-4662
-    affiliation: RANNTA Protocol
-
-abstract: >
-  RANNTA is a symbolic and immutable token ecosystem built on The Open Network (TON),
-  forming the economic and cultural core of the RANNTA Protocol.
-  It merges transparent tokenomics with conceptual NFT collections and on-chain
-  artistic systems governed by the philosophy of Mythosymbolic Fractalism (MSF).
-  The ecosystem bridges blockchain technology, art, and philanthropy, with a
-  long-term commitment to social impact initiatives including children, environment,
-  and cultural heritage.
-
 repository-code: https://github.com/ilia144000/rannta-token
-
 url: https://rannta.com
-
 license: MIT AND CC-BY-4.0
-
 version: "1.0.0"
-
 date-released: "2025-08-29"
-
+abstract: >
+  RANNTA is a symbolic, immutable token and cultural ecosystem on The Open Network (TON).
+  It merges transparent tokenomics with conceptual NFT collections and on-chain narratives,
+  guided by the artistic research framework Mythosymbolic Fractalism (MSF).
 keywords:
   - RANNTA
-  - TON Blockchain
+  - TON
   - Jetton
   - Symbolic Token
   - Crypto Art
-  - NFT Ecosystem
+  - NFT
   - Mythosymbolic Fractalism
-  - MSF
-  - Protocol-Entity
