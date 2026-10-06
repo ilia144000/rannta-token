@@ -1,33 +1,33 @@
 cff-version: 1.2.0
 type: software
-title: "RANNTA — Symbolic Crypto-Art & Token Ecosystem"
-message: "If you use this token specification, smart contract source, or related assets, please cite it as below."
+title: "RANNTA Token on TON"
+message: "Please cite this repository as the canonical public specification source for the RANNTA Jetton on The Open Network."
 authors:
-  - family-names: "ilia144000"orcid: https://orcid.org/0009-0001-9044-4662
+  - family-names: "ilia144000"
 repository-code: https://github.com/ilia144000/rannta-token
 url: https://rannta.com
 license: "(MIT AND CC-BY-4.0)"
-version: "1.0.0"
+version: "1.1.0"
 date-released: "2025-08-29"
 abstract: >
-  RANNTA is an immutable token specification and symbolic crypto-art ecosystem on
-  The Open Network (TON). It combines transparent tokenomics, on-chain contracts,
-  and conceptual NFT collections, informed by the artistic research framework
-  Mythosymbolic Fractalism (MSF).
+  Canonical public identity, registry, documentation, and integration references
+  for the RANNTA Jetton on The Open Network (TON). The TON-based RANNTA asset is
+  distinct from RNTX, the native asset of RANNTA X-Chain.
 keywords:
   - RANNTA
   - TON
   - Jetton
-  - Symbolic Token
+  - ilia144000
+  - RANNTA X-Chain
+  - RNTX
   - Crypto Art
-  - NFT
   - Mythosymbolic Fractalism
 preferred-citation:
   type: software
-  title: "RANNTA — Symbolic Crypto-Art & Token Ecosystem"
+  title: "RANNTA Token on TON"
   authors:
-    - family-names: "ilia144000"orcid: https://orcid.org/0009-0001-9044-4662
+    - family-names: "ilia144000"
   url: https://rannta.com
-  version: "1.0.0"
+  version: "1.1.0"
   date-released: "2025-08-29"
   license: "(MIT AND CC-BY-4.0)"
