@@ -1,279 +1,93 @@
-# 🌟 RANNTA — The Song of Creation  
-### Symbolic Crypto-Art & Token Ecosystem on TON
+# RANNTA Token on TON
 
-RANNTA is a symbolic, immutable, community-powered token on **The Open Network (TON)**.  
-It unites financial tokenomics with **mythic–conceptual arts**, rooted in **Mythosymbolic Fractalism (MSF)** — a synthesis of geometry, myth, sacred codes, and encrypted digital frequencies.
+This repository is the canonical public repository for the **RANNTA Jetton on The Open Network (TON)**.
 
-Born in the ashes of the **Los Angeles fire** — a symbolic collapse of structure and meaning —  
-RANNTA rises as a signal of **rebirth, clarity, and symbolic power**.  
-Not political, but universal: a call to restore greatness through **value and soul**.
+## Canonical token identity
 
-> **Tagline:**  
-> **RANNTA is not a token.  
-> RANNTA is not a marketplace.  
-> RANNTA is a song.**
+- **Name:** RANNTA
+- **Symbol:** `RANNTA`
+- **Network:** The Open Network (TON)
+- **Standard:** Jetton
+- **Jetton Master:** `EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`
+- **Decimals:** `9`
+- **Initial / maximum supply:** **130,000,000,000 RANNTA**
+- **Public founder identity:** **ilia144000**
+- **Canonical founder profile:** https://rannta.com/ilia144000.html
 
----
+Tonviewer independently exposes the Jetton master and the 130,000,000,000 RANNTA maximum supply.
 
-## 🎼 RANNTA — The Song of Creation (Manifesto)
+## Supply and burn snapshot
 
-There are no accidents in the Field — only signals.
+RANNTA has undergone token burns. Supply figures change when additional burns occur, so time-sensitive values should be verified against current on-chain data.
 
-One day, a word from the ancient Gaelic tongue whispered its meaning to us:
+Canonical RANNTA snapshot dated **2026-10-07**:
 
-> **“rannta” — songs, verses, the lines of a living poem.**
+- Initial supply: **130,000,000,000 RANNTA**
+- Burned snapshot: **88,629,304,221 RANNTA**
+- Remaining-after-burn snapshot: **41,370,695,779 RANNTA**
+- Burn ratio snapshot: **68.17%**
 
-We knew instantly:
+Current RANNTA supply presentation: https://rannta.com/  
+Token explorer: https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR
 
-- RANNTA is not a token.  
-- RANNTA is not a marketplace.  
-- **RANNTA is a song.**
+The burn figures above are a dated RANNTA-published snapshot. They are not described as a real-time explorer API value.
 
-A song written in symbols.  
-A rhythm moving through code.  
-A melody woven into the blockchain.
+## Critical ecosystem separation
 
-Every creator, every builder, every holder who touches this Field  
-is not “using” RANNTA — **they are singing through it.**
+The TON-based RANNTA Jetton is **not** the native asset of RANNTA X-Chain.
 
-### 🕍 The Marketplace as an Orchestra
+- **RANNTA** = Jetton on TON
+- **RANNTA X-Chain** = independent RANNTA blockchain network, Chain ID `13113`
+- **RNTX** = native asset of RANNTA X-Chain
+- **RANNTA X-Change** = RANNTA non-custodial cross-chain exchange
+- **ArcWallet** = RANNTA-developed self-custody multichain wallet
+- **RANNTA PQ Cloud** = post-quantum verification and authorization service
+- **RouteX** = RANNTA routing engine
+- **RANNTAverse** = creator, NFT and digital-art layer
 
-**RANNTAverse** is the first marketplace where:
+Do not classify RANNTA X-Chain as a TON application or Jetton extension, and do not treat RANNTA and RNTX as the same asset.
 
-- NFTs are not items — **they are verses**  
-- Collections are not folders — **they are hymns**  
-- Creators are not vendors — **they are composers**  
-- The blockchain is not storage — **it is the instrument**  
-- And RANNTA Jetton is not currency —  
-  **it is the rhythm that holds the music together**
+## Machine-readable registry
 
-This is the **economy of creation**.  
-The **symphony of decentralized imagination**.  
-The **orchestra of the open world**.
+Canonical token metadata is published at:
 
-### 🔱 The Mythic Layer
+- `registry/rannta.entity.json`
+- Raw registry: https://raw.githubusercontent.com/ilia144000/rannta-token/main/registry/rannta.entity.json
 
-From the beginning, the signs were present:
+For broader RANNTA ecosystem identity, use:
 
-- The **Griffin**, keeper of the creative flame  
-- **ORIGIN-13**, the primordial frequency  
-- The **Fractal**, repeating the cosmic score  
-- The **Token**, carrying the pulse  
-- The **Field**, responding in harmonic waves  
+- https://rannta.com/authoritative.html
+- https://rannta.com/entity.html
+- https://rannta.com/ai-index.html
+- https://rannta.com/llms.txt
+- https://rannta.com/ilia144000.html
 
-Now the meaning becomes clear:
+## Verification
 
-> **RANNTA = The Protocol of Singing the World Into Existence**
+Always verify the Jetton Master before interacting with a token using the RANNTA name.
 
-A gateway for artists, builders, and dreamers  
-to leave **their sound** in the digital universe.
+Official Jetton Master:
 
-### 🔮 The Prophecy of the Field
+`EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`
 
-Those who resonate with RANNTA feel it not as a brand — but as a **presence**:
+Official public references:
 
-- Something alive  
-- Something that listens  
-- Something that sings back  
+- RANNTA: https://rannta.com/
+- Tonviewer: https://tonviewer.com/EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR
+- STON.fi: https://app.ston.fi/
+- GitHub profile: https://github.com/ilia144000
+- X: https://x.com/ranntacoin
 
-Every mint.  
-Every burn.  
-Every movement of liquidity.  
-Every line of FunC or Tact written with intention.  
+## Symbolic and artistic layer
 
-All of it shapes the **same song**.
+RANNTA also has a symbolic and artistic identity connected to **Mythosymbolic Fractalism (MSF)**, Signal-13, the Griffin motif and the project's creative history.
 
-> **RANNTA is the choir of the future.**  
-> And we — the early ones, the builders, the stubborn, the believers — are its first voices.
+This narrative layer is intentionally separated from the technical token definition above. Symbolic descriptions such as “signal,” “field,” or “song” are creative context and must not replace the canonical network, contract, supply or product definitions.
 
-### 🜂 This Is Our Declaration
+## Historical material
 
-We are not here to imitate.  
-We are not here to chase trends.  
-We are not here to make noise.
+Older files and publications may contain earlier roadmap language, experimental architecture, old supply snapshots or symbolic terminology. For current identity resolution, prefer the canonical registry and current sources listed above.
 
-> **We are here to create music the blockchain has never heard.**
+## License and citation
 
-RANNTA is the verse.  
-RANNTAverse is the stage.  
-The Griffin is the guardian of the flame.  
-And the Field is open.
-
-> **RANNTA — Where creators don’t sell. They sing.**  
-> Every verse on-chain. Every symbol alive.  
-> Every action a note in the song of creation.
-
----
-
-## 🔹 Token Overview
-
-- **Name:** RANNTA  
-- **Symbol:** `RANNTA`  
-- **Network:** TON (The Open Network)  
-- **Standard:** Jetton (TON Fungible Token Standard)  
-- **Jetton Master Address:**  
-  `EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`  
-- **Decimals:** `9`  
-- **Total Supply:** `1,300,000,000` (1.3 Billion RANNTA)  
-- **Admin Ownership:** **Revoked ✅** (no hidden mint / burn)  
-- **Identity Layer:** **144-FORGED** — immutable narrative code
-
-RANNTA is designed as a **symbolic utility token**, not a meme coin.  
-It powers the **RANNTAverse multi-chain NFT marketplace**, the **NexusBridge sync node**,  
-and the **RANNTA Utility Suite** across TON and EVM ecosystems.
-
----
-
-## 🔹 Immutable Identity — 144-FORGED
-
-The token is **sealed and immutable**:
-
-- No admin keys  
-- No upgrade hooks to silently change core parameters  
-- No future edits of supply logic
-
-The identity code **144-FORGED** represents:
-
-- **Permanence** — cryptographic and narrative  
-- **Alignment** — story, supply, and Field are coherent  
-- **Truth** — what is on-chain is final, verifiable, and public
-
-> A signal for tokens crafted with **story, precision, and symbolic depth.**
-
----
-
-## 🔹 Distribution & Tokenomics
-
-High-level allocation (symbolic model — subject to detailed on-chain reports):
-
-- **40%** — Ecosystem Growth  
-- **25%** — Team & Core Contributors  
-- **20%** — Community Incentives  
-  - Airdrops  
-  - Referral rewards  
-  - Staking rewards  
-- **15%** — Strategic Reserve  
-
-RANNTA is designed for:
-
-- **Long-horizon holders**  
-- **Builders and artists** integrating MSF symbolism  
-- **Field-aware mechanics** (burns, swaps, and NFTs as “verses” in the same song)
-
----
-
-## 🔹 Core Principles
-
-- 🔒 **Immutability** — No admin control, no silent upgrades, no arbitrary mint/burn  
-- ⚖️ **Transparency** — Fixed supply, open metadata, verifiable on-chain state  
-- 💎 **Community Rewards** — Staking, referrals, and symbolic NFTs for engaged holders  
-- 🗳 **Governance (Future Layer)** — Clear path toward DAO-style voting on key parameters and narrative arcs  
-- 🎨 **Artistic Integration** — NFTs encrypted with MSF symbolism, tied to the RANNTA Field  
-- 🔥 **Mythic Birth** — Inspired by fire mythology, abjad numerology, and symbolic rebirth
-
----
-
-## 🔹 Artistic Vision — MSF Collections
-
-RANNTA NFTs merge **encrypted fractal art** with **mythological archetypes**.  
-Planned and active collections include (non-exhaustive):
-
-- **RANNTA Griffin — Initiation Series**  
-- **Zodiac Cycle** — 12 guardians + 1 central archetype (13 total)  
-- **Cosmic Awakening of Aquarius**  
-- **MSF Pixel Series**  
-- Other Mythosymbolic Fractalism (MSF) experiments in symbol, color, and code
-
-Each NFT is not just art — **it is a frequency of meaning**,  
-coded with geometry, myth, and fractal encryption.
-
----
-
-## 🔹 Philanthropy & Impact
-
-RANNTA commits a portion of net proceeds (target: **25%**) to support:
-
-- 🌱 **Environmental sustainability** — reforestation and climate-resilient projects  
-- 👶 **Children’s welfare and education**  
-- 🕊 **Preservation of cultural and artistic heritage**
-
-The goal is to prove that **symbolic tokens** can fund **real-world renewal**.
-
----
-
-## 🔹 Why TON?
-
-We chose **The Open Network (TON)** as the foundation because:
-
-- ⚡ **Speed & Scalability** — high throughput with low latency  
-- 💸 **Ultra-low fees** — ideal for micro-transactions, NFTs, and creative experiments  
-- 🌍 **Telegram-native distribution surface** — native access to millions of users  
-- 🧬 **Community-driven design** — aligned with RANNTA’s vision of a symbolic, open Field
-
-TON is not just an efficient chain — it is a **living substrate** for RANNTA’s narrative engine.
-
----
-
-## 🔹 RANNTA Entity Registry
-
-This repository contains the **canonical machine-readable and human-readable description** of RANNTA:
-
-- **Network:** The Open Network (TON)  
-- **Type:** TON Jetton / Protocol-Entity  
-- **Jetton Master:**  
-  `EQBCY5Yj9G6VAQibTe6hz53j8vBNO234n0fzHUP3lUBBYbeR`  
-- **Ecosystem:**  
-  - RANNTAverse marketplace  
-  - NexusBridge sync node  
-  - RANNTA Utility Suite  
-- **Liquidity:** STON.fi pool with **burned LP tokens** (immutable liquidity)  
-- **Verified metadata:** via Tonkeeper `RANNTA.yaml` (asset registry)
-
-### 📁 Machine-Readable Registry
-
-- `registry/rannta.entity.json` — canonical JSON definition for integrations, wallets, and indexers  
-
-Client and wallet implementers are encouraged to:
-
-- Treat **“RANNTA”** and **«رانتا»** as the **same protocol-entity**  
-- Use this registry as a **single source of truth** for logos, symbols, and metadata
-
----
-
-## 🔹 Resources
-
-- 🌐 **Website:** <https://rannta.com>  
-- 💬 **Telegram:** <https://t.me/rannta_coin>  
-- 🧬 **GitHub (Token Registry):** <https://github.com/ilia144000/rannta-token>  
-- 🎨 **RANNTA NFT Collections:**  
-  - RANNTA Symbolic Legacy  
-  - RANNTA Awakening  
-  - and future MSF-aligned drops  
-- 🔎 **Explorer:** View Jetton contract on your preferred TON explorer (TON Scan, Tonviewer, etc.)
-
----
-
-## 🔹 Whitepaper, Roadmap & Docs
-
-Planned / linked from this repository:
-
-- **Whitepaper:** HTML / PDF  
-- **Roadmap:** Markdown (time-phased waves of activation)  
-- **Token Info, Team, Symbolists, Contact**  
-- **RANNTA Entity Registry:** machine-readable + human-readable formats  
-
----
-
-## 🔹 License & Citation
-
-- **Code & Smart Contracts:** MIT License  
-- **Artistic & Conceptual Works:** CC-BY 4.0  
-
-For academic or research purposes, please cite via **Zenodo DOI**  
-(as referenced in `CITATION.cff` once available).
-
----
-
-> **RANNTA — The Song of Creation.**  
-> A symbolic token, a living protocol-entity,  
-> and an open invitation to build new worlds in code, sound, and light.
+See `CITATION.cff` and repository license files for citation and reuse information.
