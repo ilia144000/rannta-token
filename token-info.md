@@ -1,3 +1,5 @@
+> **Canonical status notice — 2026-10-07:** Historical token document. Current supply is 130,000,000,000 RANNTA. Current canonical token identity is defined by `registry/rannta.entity.json` and the root README. The TON-based RANNTA Jetton is distinct from RNTX, the native asset of RANNTA X-Chain.
+
 # RANNTA Token — Official Information
 
 ## Blockchain
@@ -14,7 +16,7 @@
 - **Transparency:** Fixed total supply, verifiable on-chain
 
 ## Supply
-- **Total Supply:** 1,300,000,000 (1.3 Billion) RANNTA  
+- **Total Supply:** 130,000,000,000 (130 Billion) RANNTA  
 - **Initial Distribution:**  
   - 40% Ecosystem Growth  
   - 25% Team & Core Contributors  
