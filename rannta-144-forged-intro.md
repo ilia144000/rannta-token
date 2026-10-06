@@ -1,3 +1,6 @@
+> **Historical / symbolic document notice.**
+> This file records earlier narrative positioning and must not replace the current canonical technical identity. Use https://rannta.com/authoritative.html and https://rannta.com/identity.json for present-tense RANNTA definitions.
+
 # Let’s Get Serious — RANNTA Isn’t Just a Token Anymore
 
 
